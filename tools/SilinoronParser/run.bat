@@ -1,0 +1,1 @@
+SilinoronParser -file sniff_file -loader izidor -tosql TRUE
